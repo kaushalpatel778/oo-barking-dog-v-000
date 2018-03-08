@@ -1,3 +1,4 @@
+
 class Dog
   def name  # getter Method
     @name
@@ -8,4 +9,6 @@ class Dog
   def bark
     puts "woof!"
   end
+end
+
 end
